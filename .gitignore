@@ -1,0 +1,6 @@
+# Ignore csv
+201908-citibike-tripdata.csv
+# Ignore other csv
+citibike-tripdata-converted.csv
+# Ignore .DS_Store
+.DS_Store
