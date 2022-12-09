@@ -2,6 +2,14 @@
 
 The dashboard for the NYC CitiBike Sharing Analysis can be viewed [here](https://public.tableau.com/authoring/NYCCitiBikeAnalysis_16633896856910/NYCCitiBikeAnalysis#1)
 
+## Tools used
+
+• Tableau
+
+• Jupyter Notebook
+
+• Python
+
 ## Overview and Purpose
 
 The purpose of this project was to gather data on bikesharing services in NYC so that a comprehensive business strategy could be employed in Des Moines, Iowa. To gather the information necessary, we used Tableau Public to arrange, filter, and visualize the data properly. The reason for doing this is so business partners and potential investors will be able to see and understand the necessary information 
@@ -12,13 +20,13 @@ From the data that was processed through Tableau, 7 sheets were chosen to be pre
 
 The following graphs can be seen here:
 
-![](checkout_times.png)
-![](by_gender.png)
-![](weekday_per_hr.png)
-![](trips_by_gender.png)
-![](gender_by_weekday.png)
-![](starting_locations.png)
-![](august.png)
+![](images/checkout_times.png)
+![](images/by_gender.png)
+![](images/weekday_per_hr.png)
+![](images/trips_by_gender.png)
+![](images/gender_by_weekday.png)
+![](images/starting_locations.png)
+![](images/august.png)
 
 ## Summary
 
