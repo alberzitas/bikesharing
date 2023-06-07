@@ -12,9 +12,15 @@ The dashboard for the NYC CitiBike Sharing Analysis can be viewed [here](https:/
 
 ## Overview and Purpose
 
-The purpose of this project was to gather data on bikesharing services in NYC so that a comprehensive business strategy could be employed in Des Moines, Iowa. To gather the information necessary, we used Tableau Public to arrange, filter, and visualize the data properly. The reason for doing this is so business partners and potential investors will be able to see and understand the necessary information 
+The objective of this project was to collect data on bikesharing services in New York City (NYC) to formulate a comprehensive business strategy for implementing a similar service in Des Moines, Iowa. To accomplish this, we utilized Tableau Public, a powerful data visualization tool, to organize, filter, and visualize the gathered data effectively. The intention behind this approach was to present the necessary information in a clear and understandable manner to business partners and potential investors.
+
+By utilizing Tableau Public, we were able to transform the collected bikesharing data into visually appealing and informative visualizations. These visualizations not only facilitated a better understanding of the data but also provided valuable insights into the operational aspects, user patterns, and market dynamics of bikesharing services in NYC.
+
+
 
 ## Analysis
+
+The utilization of Tableau Public allowed us to present the gathered data in a compelling and accessible format, enhancing communication with business partners and potential investors. The visual representations facilitated a comprehensive understanding of the key metrics, trends, and potential opportunities associated with bikesharing services, aiding in the formulation of an effective business strategy for the implementation of a similar service in Des Moines, Iowa.
 
 From the data that was processed through Tableau, 7 sheets were chosen to be presented on a Tableau Story with each graph having a summary of the results found. The sheets included data relating to the location where bikesharing was used the most, what times and days are the most popular for people to use bikesharing, and which demographic uses it the most.
 
